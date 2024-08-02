@@ -1,4 +1,4 @@
-# -Comprehensive-Clustering-Analysis-and-Validation-on-Synthetic-and-Real-World-Data-
+# Clustering-Analysis-Validation
 
 ## Project Overview
 This project focuses on implementing and evaluating various clustering methods on both synthetic and real-world datasets. The objective is to assess the performance of clustering algorithms using both external and internal validation techniques. The project includes two main tasks: clustering on synthetic datasets and clustering on a world indicators dataset to group similar countries.
